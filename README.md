@@ -9,8 +9,11 @@ Titanium-Network is the best.
 Chromebook specs and firmware
 
 Version: 130.0
+
 Motherboard: Nissa
+
 Kernel Version: 004
+
 Keyrolled: true
 
 If anyone wants to suggest exploits to me feel free to do so!
